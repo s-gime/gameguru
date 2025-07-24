@@ -1,0 +1,13 @@
+{
+  "name": "gameguru",
+  "version": "1.0.0",
+  "description": "Gaming overlay & performance monitoring",
+  "author": "Gaba Dev",
+  "license": "CC0-1.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "dev": "electron . --dev"
+  }
+}
